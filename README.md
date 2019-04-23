@@ -14,7 +14,7 @@
 ## 项目运行（nodejs 6.0+）
 ``` bash
 # 克隆到本地
-git clone https://git.coding.net/zhangyuaichiyu/vuex.git
+git clone https://github.com/zhangyuaichiyu/vuex.git
 
 # 进入文件夹
 cd vuex
