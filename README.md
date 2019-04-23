@@ -10,8 +10,6 @@
 
 >  开发环境 macOS 10.12.3  Chrome 56 nodejs 6.10.0
 
->  这个项目主要用于 vue2 + vuex 的入门练习，另外推荐一个 vue2 比较复杂的大型项目，覆盖了vuejs大部分的知识点。目前项目已经完成。[地址在这里](https://github.com/bailicangdu/vue2-elm)
-
 
 ## 项目运行（nodejs 6.0+）
 ``` bash
@@ -19,7 +17,7 @@
 git clone https://git.coding.net/zhangyuaichiyu/vuex.git
 
 # 进入文件夹
-cd vue2-happyfri
+cd vuex
 
 # 安装依赖
 npm install 或 yarn(推荐)
